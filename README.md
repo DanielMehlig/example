@@ -1,2 +1,3 @@
 # example
-Example project
+Example project:
+- Used as a demo
